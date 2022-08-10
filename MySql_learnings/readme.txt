@@ -1,2 +1,2 @@
-### ipynb ki files read kr leyan 
+###ipynb ki files read kr leyan 
 or pdf b upload krty han
